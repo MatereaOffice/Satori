@@ -1,0 +1,24 @@
+{
+  "name": "satori",
+  "version": "1.0.0",
+  "description": "Enlightened library to convert HTML and CSS to SVG, powered by vercel/satori.",
+  "main": "example.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node example.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatereaOffice/Satori.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatereaOffice/Satori/issues"
+  },
+  "homepage": "https://github.com/MatereaOffice/Satori#readme",
+  "dependencies": {
+    "satori": "^0.33.4"
+  }
+}
